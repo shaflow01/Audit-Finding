@@ -15,25 +15,25 @@ GitHub:[414](https://github.com/code-423n4/2023-09-maia/blob/f5ba4de628836b2a29f
 
 
 File:src/RootPort.sol
-
+```solidity
 414        function toggleBridgeAgent(address _bridgeAgent) external override onlyOwner {
 415            isBridgeAgent[_bridgeAgent] = !isBridgeAgent[_bridgeAgent];
 416
 417            emit BridgeAgentToggled(_bridgeAgent);
 418        }
-
+```
 
 GitHub:[431](https://github.com/code-423n4/2023-09-maia/blob/f5ba4de628836b2a29f9b5fff59499690008c463/src/RootPort.sol#L431)
 
 
 File:src/RootPort.sol
-
+```solidity
 431        function toggleBridgeAgentFactory(address _bridgeAgentFactory) external override onlyOwner {
 432            isBridgeAgentFactory[_bridgeAgentFactory] = !isBridgeAgentFactory[_bridgeAgentFactory];
 433
 434            emit BridgeAgentFactoryToggled(_bridgeAgentFactory);
 435        }
-
+```
 
 # NOT-CRITAL
 
@@ -47,7 +47,7 @@ Changing it to synchronize with the document will improve standardization.
 GitHub:[188](https://github.com/code-423n4/2023-09-maia/blob/6c21f6b739252367c5fe770fed3ff76eb3ca2c86/src/CoreBranchRouter.sol#L188)
 
 File: src/CoreBranchRouter.sol
-
+```solidity
 187        /**
 188            * @notice Function to deploy/add a token already active in the global environment in the Root Chain.
 189            *         Must be called from another chain.
@@ -68,7 +68,7 @@ File: src/CoreBranchRouter.sol
 204                address _refundee,
 205                GasParams memory _gParams
 204            ) internal virtual
-
+```
 
 There is another place here.Although its Function @notice matches the document, the functional description is not clear enough.  
 
@@ -80,7 +80,7 @@ Clearer description of functions will ease of reading and maintenance.
 GitHub[299](https://github.com/code-423n4/2023-09-maia/blob/f5ba4de628836b2a29f9b5fff59499690008c463/src/CoreBranchRouter.sol#L299C1-L299C1)
 
 File: src/CoreBranchRouter.sol
-
+```solidity
 298        /**
 299        * @notice Function to deploy/add a token already active in the global environment in the Root Chain.
 300        *         Must be called from another chain.
@@ -125,7 +125,7 @@ File: src/CoreBranchRouter.sol
 226            //Perform Call
 227            _performCall(_refundee, payload, _gParams);
 228        }
-
+```
 
 
   ✨ All participating wardens are encouraged to submit an Analysis prior to the closing date. [Guidelines and FAQ can be found here.](https://code4rena.notion.site/Analyses-Guidelines-and-FAQ-2808a71e08e44c81a985527194f5f118)
