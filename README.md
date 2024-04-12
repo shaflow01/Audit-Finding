@@ -11,7 +11,6 @@ My aduit finding in public aduit contest
 |   AI Arena   | High     |  最终报告还未发布，不能发布漏洞具体内容    |      |
 |   AI Arena   | med     |  最终报告还未发布，不能发布漏洞具体内容    |      |
 |   AI Arena   | med     |  最终报告还未发布，不能发布漏洞具体内容    |      |
-|   AI Arena   | med     |  最终报告还未发布，不能发布漏洞具体内容    |      |
 |   AI Arena   | QA     |    最终报告还未发布，不能发布漏洞具体内容  |      |
 |   AI Arena   | Analize     |   最终报告还未发布，不能发布漏洞具体内容   |      |
 
