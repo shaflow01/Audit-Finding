@@ -20,7 +20,7 @@ Profile: https://code4rena.com/@shaflow2
 |   DYAD |  High     |  [H-3](/Code4rena/DYAD/H-3.md)    |      
 |   DYAD |  High     |  [H-4](/Code4rena/DYAD/H-4.md)    |      
 |  LoopFi  |   High   |  [H-1](/Code4rena/LoopFi/H-1.md)    |      
-|  Munchables  |   Med   |      |      
+|  Munchables  |   Med   |  [M-1](/Code4rena/Munchables/M-1.md)    |      
 |  Predy  |   Med   |   [M-1](/Code4rena/Predy/M-1.md)   |      
 |  Predy  |   Med   |   [M-2](/Code4rena/Predy/M-2.md)   |      
 |  Olas  |   QA   |   [报告](/Code4rena/Olas/QA.md)   |      
