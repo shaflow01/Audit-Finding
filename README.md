@@ -6,7 +6,7 @@ My valid audit finding in public audit contest
 Profile: https://code4rena.com/@shaflow2
 
 | 项目 | 严重性  | 链接 |
-| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- |
 |  Maia DAO - Ulysses    |  QA   |  [报告](/Code4rena/Maia%20DAO%20-%20Ulysses/QA.md)    |      |
 |   Althea Liquid Infrastructure   | High     |  [H-1](/Code4rena/Althea%20Liquid%20Infrastructure/H-1.md)    |
 |   AI Arena   | High     |  [H-1](/Code4rena/AIArena/H-1.md)   |
