@@ -36,5 +36,7 @@ Profile: https://code4rena.com/@shaflow2
 |  NOYA  |  QA    |  未公开发布    |
 |  Thorchain  |  Med    |  未公开发布    |
 |  Thorchain  |  Med   |  未公开发布    |
+|  Size  |  Med   |  未公开发布    |
+|  SIze  |  Med   |  未公开发布    |
 
 
